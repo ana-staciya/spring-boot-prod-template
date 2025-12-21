@@ -1,3 +1,5 @@
+## 🚧 Status: Work in Progress
+
 # spring-boot-prod-template — Spring Boot 4 Production Starter (Java 25)
 A production-minded **Spring Boot 4** starter/template repo you can fork and/or reuse for future services. Includes a small reference API, database migrations, observability, Docker, and CI so every new service starts "real".
 
