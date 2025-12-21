@@ -14,7 +14,7 @@ A production-minded **Spring Boot 4** starter/template repo you can fork and/or 
 ## Stack (MVP)
 - **Java:** 25 (LTS)
 - **Spring Boot:** 4.0.1
-- **Build:** Gradle (Kotlin DSL)
+- **Build:** Gradle (Groovy DSL)
 - **API:** Spring Web (MVC) + Validation
 - **DB:** PostgreSQL 18
 - **Migrations:** Flyway
